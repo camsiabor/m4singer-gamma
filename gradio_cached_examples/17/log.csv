@@ -1,0 +1,2 @@
+Result,component 1,component 2,component 3,flag,username,timestamp
+"{""path"": ""gradio_cached_examples\\17\\Result\\c1d51ae1e72b9e6c1116\\audio.wav"", ""url"": ""/file=C:\\Users\\user\\AppData\\Local\\Temp\\gradio\\d4e675f2323d28a99c00f0ac1ac1f04f6511bcc9\\audio.wav"", ""size"": null, ""orig_name"": ""audio.wav"", ""mime_type"": null, ""is_stream"": false, ""meta"": {""_type"": ""gradio.FileData""}}","{'visible': True, '__type__': 'update'}","{'visible': True, '__type__': 'update'}","{'visible': True, '__type__': 'update'}",,,2024-05-07 19:17:37.894169
